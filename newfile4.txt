@@ -1,1 +1,2 @@
-My name is Feruzbek. I am Backend developer.
+My name is Feruzbek. I am a Backend developer. I am learning Version Control.
+
