@@ -1,2 +1,2 @@
-# my-first-repr minor update!
+# my-first-repr
 My first account to learn git 
